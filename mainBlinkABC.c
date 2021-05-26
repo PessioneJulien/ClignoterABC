@@ -18,6 +18,8 @@ int main()
         delay(1000);
         printf("B C A\n");
         delay(1000);
+        printf("B A C\n");
+        delay(1000);
     }
     return 0;
 }
